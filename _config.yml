@@ -59,3 +59,27 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
+<<<<<<< HEAD
+
+
+
+---
+layout:     post                   
+title:      My First Post           
+subtitle:   Hello World, Hello Blog 
+date:       2019-04-01             
+author:     BY                      
+header-img: showtime/66.jpg    
+catalog: true                       
+tags:  生活
+---
+
+## Hey
+>这是我的第一篇博客。
+
+进入你的博客主页，新的文章将会出现在你的主页上.
+
+2019-04-04-快速搭建个人博客.md
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 93d9e81b176bf70d7c981bc866b48a9d331323c1
