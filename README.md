@@ -1,83 +1,66 @@
-# Repository_first
-# 高效阅读法：如何1年内读400本书？<br/>
+### 简介
 
-这本书的作者是本田制之，他曾经说过：在使用金钱上， 再也没有像书籍这样棒的投资对象了，因为读书是最好的投资。<br/>
+折腾过挺多博客的，发现直接用Github的 Issues + Projects，写技术博客能够更加专心，后面就持续在此更新博客了～
 
-作者在日本经营着一家企业管理顾问公司，要参与数十家日、美公司在生意上的成本管理，每天保持着一天读一到4本书的习惯，即使非常忙的时候，每天也要读一本书。一年下来要读400本书。
+### 博客分类
+
+博客主要划分为下面几大类别：
+
+* [Java Web](https://github.com/johnnian/Blog/projects/1)
+* [分布式架构](https://github.com/johnnian/Blog/projects/2)
+* [数据库](https://github.com/johnnian/Blog/projects/3)
+* [开发工具](https://github.com/johnnian/Blog/projects/4)
+* [客户端Apps](https://github.com/johnnian/Blog/projects/5)
+* [读书笔记](https://github.com/johnnian/Blog/projects/6)
+* [Linux & Docker](https://github.com/johnnian/Blog/projects/7)
+* [大数据技术](https://github.com/johnnian/Blog/projects/8)
+
+### 主要系列文章
+
+**1、工具**
+
+- [CentOS6.8 安装 RebbitMQ](https://github.com/johnnian/Blog/issues/7)
+- [MongoDB 副本集部署-3.6版本](https://github.com/johnnian/Blog/issues/8)
+- [生产环境部署Redis Cluster集群](https://github.com/johnnian/Blog/issues/9)
+- [Redis安装、配置及使用(单机版) ](https://github.com/johnnian/Blog/issues/2)
+- [CentOS 6 配置：Keepalived + Nginx ](https://github.com/johnnian/Blog/issues/19)
+- [H2数据库安装与使用(单点) ](https://github.com/johnnian/Blog/issues/24)
+- [H2数据库集群搭建(主从结构)](https://github.com/johnnian/Blog/issues/26)
+- [Zookeeper安装部署（单点／集群）](https://github.com/johnnian/Blog/issues/25)
+- [Supervisor 安装使用](https://github.com/johnnian/Blog/issues/27)
+- [CentOS 安装 Ruby 2.3.0](https://github.com/johnnian/Blog/issues/33)
+- [CentOS 7 更改网卡名](https://github.com/johnnian/Blog/issues/47)
+- [Docker容器—HBase安装](https://github.com/johnnian/Blog/issues/38)
+- [autossh内外网穿透方法](https://github.com/johnnian/Blog/issues/43)
+- [SSH使用问题以及解决方案(expecting SSH2_MSG_KEX_ECDH_REPLY) ](https://github.com/johnnian/Blog/issues/44)
+- [日志服务—使用Flume-NG/Kafaka搭建日志搜集服务 ](https://github.com/johnnian/Blog/issues/34)
+- [日志服务—阿里云日志服务使用记录](https://github.com/johnnian/Blog/issues/46)
+
+**2、Storm实时计算**
+
+- [Storm实战—基本概念](https://github.com/johnnian/Blog/issues/21)
+- [Storm实战—安装部署](https://github.com/johnnian/Blog/issues/22)
+- [Storm实战—任务部署与调度](https://github.com/johnnian/Blog/issues/23)
+
+**3、Kubernetes**
+
+- [Kubernetes—简介以及部署方案](https://github.com/johnnian/Blog/issues/30)
+- [Kubernetes—使用Minikube搭建Nginx集群](https://github.com/johnnian/Blog/issues/32)
+
+**4、J2EE**
+
+- [Linux Socket Exception](https://github.com/johnnian/Blog/issues/35)
+- [Java基础—NIO基础概念](https://github.com/johnnian/Blog/issues/36)
+- [Java基础—线程安全与锁](https://github.com/johnnian/Blog/issues/37)
 
 
-与其速读，不如多读
+**5、SpringBoot**
 
-速读锻炼的是阅读速度，就像运动员与时间赛跑一样，单纯地快速阅读一本书，不会有太大的意义。与其这样，不如抓出重点，读完后“如何使用这些内容”才更重要。读到的内容活用在工作上，能够产生投资结果，这才是读书的最后目的。
-
-速读训练的是眼睛移动法，多读强调的是舍弃哪些你熟悉或者没用的部分，专心读对你来说你不熟悉或者对你有价值的部分。
-
-一、选书就是挑选投资标的
-
-查理.琼斯说过：除非改变你交往的人与所读的书，否者五年后的你与现在完全一样。
-
-1）读书的目的要明确
-
-首先目标要明确，然后从目标倒推。为了达成这个目标，我应该做什么。假如将来你想创业，你就需要读一些创业、会计、管理等方面的书籍。如此一来，你就不用读其他无关紧要的书了。
-
-2）选择哪些对自己简单易读的书
-
-你没有必要选择哪些对你晦涩难懂的书，难懂的书，自己很难勉强自己读下去。从中选择最好读，易懂的书就可以了。
-
-3）与其选专业类型，不如选经验类型
-
-所谓“专业类型”就像学者、研究员所写，这样研究用书主要以理论为主。而“经验型”的书，是作者以自己的经验为基础写出来的书，我们可以从这些有经验的人身上取得建议。
+- [SpringBoot系列之—Web开发实战](https://github.com/johnnian/Blog/issues/39)
+- [SpringBoot系列之—瘦身部署](https://github.com/johnnian/Blog/issues/41)
+- [SpringBoot系列之—日志打印的问题(经验总结)](https://github.com/johnnian/Blog/issues/42)
 
 
-4）选择与自己息息相关的书
+### 提示
 
-不管这本书如何浅显易懂，如果和自己想要达成的目标想去深远，对我们来说也没有多大意义。所以我们要选择与自己息息相关的书。
-
-5）以主题、直觉、趋势选书
-
-从目标倒退，根据想要达到的目标主题选书，你可以时代发展的趋势选书，或者根据你的直觉选书。
-
-6）彻底地阅读同类别的书
-
-当读书的目标明确时，就可以采用“类别集中法”选书的方式。如何你想知道某种主题的内容，你只要取得这类别的书，然后彻底全民的去读就可以了。
-
-7）如何选书
-
-朋友、熟人、行家的口碑
-
-网络杂志、媒体的书评
-
-报纸、杂志的书评
-
-国内外的书评服务
-
-
-二、一日一本、有策略的读书
-
-1）有目的的读书
-
-开始读书之前，你需要确认你读本书的目的、这样你才能清楚书中的重要部分和不重要的部分。
-
-2）设定时间限制
-
-虽然按照书的内容而定，但平均在一至两个小时左右。
-
-3）浏览一本书的内容
-
-查看“前言”“目录”“后记”将整本书的整本结构映入脑海中。
-
-4）开始读书
-
-读书要有轻重缓急之分，利用80/20原理，重要的地方必须熟读，其他的地方就略读抓重点。画线、标号、记录、折记号。并且边读边把想法记录下来。
-
-5）杠杆效益笔记法
-
-将书中重要部分摘录出来做出笔记，经常把它放在身上，偶尔拿出来反复阅读。还把阅读时的突发奇想或是写在书上加以实践的结果等都下写在笔记上。
-
-6）把累计的笔记按照题目做分类
-
-等我们不断累计笔记，就需要把这些笔记按照题目分类。比如：时间管理、个人管理、人际关系、健身等。
-
-7）多读几次、变成个人资产
-
-把这些笔记带着身上，反复阅读，达到融会贯通。
+转载于：https://github.com/johnnian/Blog/edit/master/README.md
